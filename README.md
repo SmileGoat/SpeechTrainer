@@ -1,5 +1,5 @@
-# tfk_speech_trainer
-base on kaldi and tensorflow
+# SpeechTrainer
+base on kaldi ....
 
 todo:
 0 refactor
